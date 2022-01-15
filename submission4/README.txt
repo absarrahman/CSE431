@@ -1,5 +1,5 @@
 Unlisted youtube video:
-The video will be uploaded soon. Thanks for your patience.
+https://youtu.be/6u-g7bESEUo
 
 Paper title:
 Bangla Music Lyrics Classification
