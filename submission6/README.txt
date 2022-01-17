@@ -2,6 +2,9 @@ Completed Coursera course using email
 moh.absar.rahman@g.bracu.ac.bd
 https://www.coursera.org/specializations/oss-development-linux-git
 https://www.coursera.org/learn/number-theory-cryptography
+https://www.coursera.org/learn/kotlin-for-java-developers
+https://www.coursera.org/learn/androidapps
+https://www.coursera.org/learn/technical-support-fundamentals
 
 Currently doing this course in Coursera using email
 moh.absar.rahman@g.bracu.ac.bd
