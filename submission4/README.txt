@@ -1,17 +1,20 @@
 Unlisted youtube video:
 https://youtu.be/6u-g7bESEUo
 
+Conference / Paper submission login URL:
+https://easychair.org/conferences/?conf=usernlp2022
+
 Paper title:
 Bangla Music Lyrics Classification
 
 Paper submission date (to workshop/conference):
-N/A
+23rd January 2022
 
 Paper submission ID: (received) from conference/workshop
-N/A
+Submission 3
 
 Conference URL:
-N/A
+https://caisa.informatik.uni-marburg.de/user_nlp.html
 
 Group Number:
 11
